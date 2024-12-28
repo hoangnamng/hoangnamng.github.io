@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Radley</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>All Posts | Radley</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 28 Dec 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Chapter 0</title>
+    <link>http://localhost:1313/chapter-0/</link>
+    <pubDate>Sat, 28 Dec 2024 00:00:00 &#43;0000</pubDate>
+    <author>Radley</author>
+    <guid>http://localhost:1313/chapter-0/</guid>
+    <description><![CDATA[<p>Introducing to my Ethical Hacking Process.</p>]]></description>
+</item>
+</channel>
+</rss>
